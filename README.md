@@ -21,3 +21,5 @@ Then, you can use concouse after execute following command.
 $ export CONCOURSE_EXTERNAL_URL=http://<Your server's ip address>:8080
 $ bash run.sh
 ```
+
+You can access your concourse with browser. the username `concourse` and password `changeme`.
